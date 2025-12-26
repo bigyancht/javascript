@@ -1,0 +1,1 @@
+//w3 schhol ma vako sabbi array method garnu paryoo.[JS ARRAYS]
